@@ -1,4 +1,4 @@
-# fg
+# 
 Học Phần: An toàn & Bảo mật thông tin
 
 Chủ đề: Xây dựng chương trình mã hóa và giải mã RSA (Sử dụng ngôn ngữ Java, C#).
